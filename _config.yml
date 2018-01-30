@@ -11,7 +11,7 @@ plugins:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 url: "https://www.zonejetel.com"
-enforce_ssl: zonejetel.com
+enforce_ssl: www.zonejetel.com
 baseurl: ""
 
 # Title of website
