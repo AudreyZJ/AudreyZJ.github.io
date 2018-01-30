@@ -10,7 +10,7 @@ plugins:
 # If you are hosting it on Github for some project with name 'projectname', then the url and baseurl should look like:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
-url: "https://www.zonejetel.com"
+url: "http://www.zonejetel.com"
 enforce_ssl: www.zonejetel.com
 baseurl: ""
 
