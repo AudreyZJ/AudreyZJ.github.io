@@ -10,8 +10,8 @@ plugins:
 # If you are hosting it on Github for some project with name 'projectname', then the url and baseurl should look like:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
-url: "https://bchetty.com"
-enforce_ssl: bchetty.com
+url: "https://zonejetel.com"
+enforce_ssl: zonejetel.com
 baseurl: ""
 
 # Title of website
@@ -61,7 +61,7 @@ config:
   feed-enabled: true
 
 # To display link in the footer section
-pretty-url: "bchetty.com"
+pretty-url: "zonejetel.com"
 
 # --- Misc --- #
 
@@ -106,4 +106,4 @@ exclude:
   - CNAME
 
 created-by: Babji, Chetty
-creator-url: https://bchetty.com
+creator-url: https://zonejetel.com
