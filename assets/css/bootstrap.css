@@ -6519,15 +6519,6 @@ button.close {
   margin-right: auto;
   margin-left: auto;
   
-  /*Newly added for circle avatar img*/
-  border: 1px solid white;
-    padding: 15px;
-    width: 50%;
-    margin: auto;
-
-    -webkit-border-radius: 50%;
-   -moz-border-radius: 50%;
-   border-radius: 50%;
 }
 .pull-right {
   float: right !important;
