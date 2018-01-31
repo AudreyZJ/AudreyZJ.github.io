@@ -6,7 +6,7 @@ comments: false
 
 <div class="row">
     <div class="avatar center-block">
-        <img class="img-responsive animated bounceIn" src="{{ site.avatar | prepend: site.baseurl }}" />
+        <img class="img-responsive img-circle animated bounceIn" src="{{ site.avatar | prepend: site.baseurl }}" />
     </div>        
 </div>
 
